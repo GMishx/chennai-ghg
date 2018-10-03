@@ -1,0 +1,23 @@
+/**
+ * @product    RoboMap
+ * @link       http://robosoft.co
+ * @since      1.0.0
+ *
+ * @package    Robo_Maps
+ * @subpackage Robo_Maps/public
+ *
+ * @author     RoboSoft Team <team@robosoft.co>
+*/
+
+ body .robo-maps-wrap img{
+ 	max-width: none;
+ }
+  body .robo-maps-wrap .gm-style-iw{
+  	white-space: nowrap;
+  }
+ body .robo-maps-wrap .gmap_marker{
+	/*line-height: normal;
+  	-moz-hyphens: none;
+ 	word-wrap:normal;
+ 	margin: 0px;*/
+ }

@@ -1,0 +1,604 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Robo Maps v1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-01-07 18:00+0200\n"
+"Last-Translator: admin <sinner@ukr.net>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%100/10==1 ? 2 : n%10==1 ? 0 : (n+9)%10>3 ? 2 : 1;\n"
+"X-Generator: Poedit 1.7.1\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Textdomain-Support: yes\n"
+"Language: ru_RU\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ default
+#: admin/class-robo-maps-admin.php:107
+#: admin/partials/robo-maps-admin-display.php:13
+#: admin/partials/robo-maps-admin-display.php:16
+msgid "Robo Maps"
+msgstr "Robo Карты"
+
+# @ default
+#: admin/partials/robo-maps-admin-display.php:21
+msgid "Homepage"
+msgstr "Главная страница"
+
+# @ default
+#: admin/partials/robo-maps-admin-display.php:22
+msgid "FAQ"
+msgstr "Ответы на вопросы"
+
+# @ default
+#: admin/partials/robo-maps-admin-display.php:23
+msgid "Request Support"
+msgstr "Запрос поддержки"
+
+# @ default
+#: admin/partials/robo-maps-admin-display.php:24
+msgid "Twitter"
+msgstr "Twitter"
+
+# @ default
+#: admin/partials/robo-maps-admin-display.php:25
+msgid "Facebook"
+msgstr "Facebook"
+
+# @ default
+#: admin/partials/robo-maps-admin-display.php:26
+msgid "Google+"
+msgstr "Google+"
+
+# @ default
+#: admin/partials/robo-maps-admin-display.php:33
+msgid "Settings"
+msgstr "Настройки"
+
+# @ default
+#: admin/partials/robo-maps-admin-display-form.php:103
+#: admin/partials/robo-maps-admin-display.php:37
+msgid "Width"
+msgstr "Ширина"
+
+# @ default
+#: admin/partials/robo-maps-admin-display-form.php:110
+#: admin/partials/robo-maps-admin-display.php:43
+msgid "Height"
+msgstr "Высота"
+
+# @ default
+#: admin/partials/robo-maps-admin-display.php:49
+msgid "Save Changes"
+msgstr "Сохранить изменения"
+
+# @ default
+#: admin/partials/robo-maps-admin-display.php:52
+msgid "Subscribe to newsletters and follow us in social networks to stay up to date!"
+msgstr "Подпишитесь на рассылку и следите за нами в социальных сетях, чтобы оставаться в курсе!"
+
+# @ default
+#: admin/partials/robo-maps-admin-display.php:53
+msgid "Subscribe To Newsletters"
+msgstr "Подписаться на рассылку"
+
+# @ default
+#: admin/partials/robo-maps-admin-display-form.php:410
+#: admin/partials/robo-maps-admin-display.php:72
+msgid "Buy RoboMaps Pro $10"
+msgstr "Купить RoboMaps Pro $10"
+
+# @ robo-maps
+#. translators: plugin header field 'PluginURI'
+#: robo-maps.php:0
+msgid "http://robosoft.co/robo-maps"
+msgstr "http://robosoft.co/robo-maps"
+
+# @ robo-maps
+#. translators: plugin header field 'Description'
+#: robo-maps.php:0
+msgid "This is a short description of what the plugin does. It's displayed in the WordPress dashboard."
+msgstr "Это краткое описание того, что делает плагин. Оно отображается в панели WordPress."
+
+# @ robo-maps
+#. translators: plugin header field 'Author'
+#: robo-maps.php:0
+msgid "RoboSoft (c)"
+msgstr "RoboSoft (c)"
+
+# @ robo-maps
+#. translators: plugin header field 'AuthorURI'
+#: robo-maps.php:0
+msgid "http://robosoft.co"
+msgstr "http://robosoft.co"
+
+# @ robo-maps
+#. translators: plugin header field 'Version'
+#: robo-maps.php:0
+msgid "1.0.0"
+msgstr "1.0.0"
+
+# @ default
+#: admin/partials/robo-maps-admin-display-form.php:27
+msgid "View"
+msgstr "Внешний вид"
+
+# @ default
+#: admin/partials/robo-maps-admin-display-form.php:24
+msgid "General"
+msgstr ""
+
+# @ default
+#: admin/partials/robo-maps-admin-display-form.php:30
+msgid "Controls"
+msgstr ""
+
+# @ default
+#: admin/partials/robo-maps-admin-display-form.php:33
+#: admin/partials/robo-maps-admin-display-form.php:368
+msgid "Markers"
+msgstr ""
+
+# @ default
+#: admin/partials/robo-maps-admin-display-form.php:37
+msgid "Saved Maps"
+msgstr ""
+
+# @ default
+#: admin/partials/robo-maps-admin-display-form.php:40
+msgid "Get Pro Version"
+msgstr ""
+
+# @ default
+#: admin/partials/robo-maps-admin-display-form.php:47
+msgid "Type position"
+msgstr ""
+
+# @ default
+#: admin/partials/robo-maps-admin-display-form.php:51
+#: admin/partials/robo-maps-admin-display-form.php:58
+msgid "Address"
+msgstr ""
+
+# @ default
+#: admin/partials/robo-maps-admin-display-form.php:53
+msgid "Coordinates"
+msgstr ""
+
+# @ default
+#: admin/partials/robo-maps-admin-display-form.php:65
+msgid "Latitude"
+msgstr ""
+
+# @ default
+#: admin/partials/robo-maps-admin-display-form.php:71
+msgid "Longitude"
+msgstr ""
+
+# @ default
+#: admin/partials/robo-maps-admin-display-form.php:78
+msgid "Marker"
+msgstr ""
+
+# @ default
+#: admin/partials/robo-maps-admin-display-form.php:82
+msgid "Show"
+msgstr ""
+
+# @ default
+#: admin/partials/robo-maps-admin-display-form.php:84
+msgid "Show OnClick"
+msgstr ""
+
+# @ default
+#: admin/partials/robo-maps-admin-display-form.php:86
+msgid "Off"
+msgstr ""
+
+# @ default
+#: admin/partials/robo-maps-admin-display-form.php:91
+msgid "Marker Caption"
+msgstr ""
+
+# @ default
+#: admin/partials/robo-maps-admin-display-form.php:98
+msgid "Size"
+msgstr ""
+
+# @ default
+#: admin/partials/robo-maps-admin-display-form.php:120
+msgid "Map View"
+msgstr ""
+
+# @ default
+#: admin/partials/robo-maps-admin-display.php:58
+msgid "Key Features of the Pro Version"
+msgstr ""
+
+# @ default
+#: admin/partials/robo-maps-admin-display.php:78
+msgid "User Guide"
+msgstr ""
+
+# @ default
+#: admin/partials/robo-maps-admin-display.php:80
+msgid "With RoboMaps you can insert Google maps into your Wodpress posts, pages or widgets. You can insert / edit shortcode manually or with RoboMaps build in editor."
+msgstr ""
+
+# @ default
+#: admin/partials/robo-maps-admin-display.php:81
+msgid "Most effectife and simple way create shotcode by wizard. You can find RoiboMaps shortcode wizard button on toolbar of the buildin Wordpress editor. Please check screenshots below and description to understand how to use this plugin."
+msgstr ""
+
+# @ default
+#: admin/partials/robo-maps-admin-display.php:84
+msgid "Shortcode Wizard"
+msgstr ""
+
+# @ default
+#: admin/partials/robo-maps-admin-display.php:86
+#: admin/partials/robo-maps-admin-display.php:96
+#: admin/partials/robo-maps-admin-display.php:107
+#: admin/partials/robo-maps-admin-display.php:118
+#: admin/partials/robo-maps-admin-display.php:128
+msgid "Robo Maps Screen"
+msgstr ""
+
+# @ default
+#: admin/partials/robo-maps-admin-display.php:132
+msgid "After customization of the map you can save pre-configured map into maps list or directly insert  shortcode code to the post, page or widget."
+msgstr ""
+
+# @ default
+#: admin/class-robo-maps-admin.php:84
+msgid "Add Robo Map"
+msgstr ""
+
+# @ default
+#: admin/class-robo-maps-admin.php:106
+msgid "Please check input address or Coordinates"
+msgstr ""
+
+# @ default
+#: admin/class-robo-maps-admin.php:108
+msgid "Close"
+msgstr ""
+
+# @ default
+#: admin/partials/robo-maps-admin-display-form.php:15
+msgid "Pro"
+msgstr ""
+
+# @ default
+#: admin/partials/robo-maps-admin-display-form.php:105
+#: admin/partials/robo-maps-admin-display-form.php:112
+#: admin/partials/robo-maps-admin-display.php:39
+#: admin/partials/robo-maps-admin-display.php:45
+msgid "or"
+msgstr ""
+
+# @ default
+#: admin/partials/robo-maps-admin-display-form.php:138
+msgid "Zoom"
+msgstr ""
+
+# @ default
+#: admin/partials/robo-maps-admin-display-form.php:159
+msgid "Scroll Wheel Control"
+msgstr ""
+
+# @ default
+#: admin/partials/robo-maps-admin-display-form.php:164
+#: admin/partials/robo-maps-admin-display-form.php:182
+#: admin/partials/robo-maps-admin-display-form.php:202
+#: admin/partials/robo-maps-admin-display-form.php:223
+#: admin/partials/robo-maps-admin-display-form.php:245
+#: admin/partials/robo-maps-admin-display-form.php:266
+msgid "Enabled"
+msgstr ""
+
+# @ default
+#: admin/partials/robo-maps-admin-display-form.php:166
+#: admin/partials/robo-maps-admin-display-form.php:184
+#: admin/partials/robo-maps-admin-display-form.php:204
+#: admin/partials/robo-maps-admin-display-form.php:225
+#: admin/partials/robo-maps-admin-display-form.php:247
+#: admin/partials/robo-maps-admin-display-form.php:268
+msgid "Disabled"
+msgstr ""
+
+# @ default
+#: admin/partials/robo-maps-admin-display-form.php:176
+msgid "Street View"
+msgstr ""
+
+# @ default
+#: admin/partials/robo-maps-admin-display-form.php:196
+msgid "Zoom Control"
+msgstr ""
+
+# @ default
+#: admin/partials/robo-maps-admin-display-form.php:216
+msgid "Pan Control"
+msgstr ""
+
+# @ default
+#: admin/partials/robo-maps-admin-display-form.php:238
+msgid "Overview Map"
+msgstr ""
+
+# @ default
+#: admin/partials/robo-maps-admin-display-form.php:259
+msgid "Map Type"
+msgstr ""
+
+# @ default
+#: admin/partials/robo-maps-admin-display-form.php:282
+msgid "Import Markers"
+msgstr ""
+
+# @ default
+#: admin/partials/robo-maps-admin-display-form.php:288
+msgid "Add Marker"
+msgstr ""
+
+# @ default
+#: admin/partials/robo-maps-admin-display-form.php:298
+msgid "Labels"
+msgstr ""
+
+# @ default
+#: admin/partials/robo-maps-admin-display-form.php:299
+msgid "Coordinates / Address"
+msgstr ""
+
+# @ default
+#: admin/partials/robo-maps-admin-display-form.php:300
+msgid "Link"
+msgstr ""
+
+# @ default
+#: admin/partials/robo-maps-admin-display-form.php:301
+msgid "Icon"
+msgstr ""
+
+# @ default
+#: admin/partials/robo-maps-admin-display-form.php:307
+msgid "You don't have any saved markers"
+msgstr ""
+
+# @ default
+#: admin/partials/robo-maps-admin-display-form.php:326
+msgid "Save current map"
+msgstr ""
+
+# @ default
+#: admin/partials/robo-maps-admin-display-form.php:335
+msgid "ID"
+msgstr ""
+
+# @ default
+#: admin/partials/robo-maps-admin-display-form.php:336
+msgid "Title"
+msgstr ""
+
+# @ default
+#: admin/partials/robo-maps-admin-display-form.php:337
+msgid "Action"
+msgstr ""
+
+# @ default
+#: admin/partials/robo-maps-admin-display-form.php:343
+msgid "You don't have any saved maps"
+msgstr ""
+
+# @ default
+#: admin/partials/robo-maps-admin-display-form.php:359
+msgid "What you get in professional version?"
+msgstr ""
+
+# @ default
+#: admin/partials/robo-maps-admin-display-form.php:369
+msgid "multiply markers, advanced markers settings and styles"
+msgstr ""
+
+# @ default
+#: admin/partials/robo-maps-admin-display-form.php:377
+msgid "Preview"
+msgstr ""
+
+# @ default
+#: admin/partials/robo-maps-admin-display-form.php:378
+msgid "life preview of the map in admin section"
+msgstr ""
+
+# @ default
+#: admin/partials/robo-maps-admin-display-form.php:386
+msgid "Save Settings"
+msgstr ""
+
+# @ default
+#: admin/partials/robo-maps-admin-display-form.php:387
+msgid "save configured maps, modify your maps faster and easier"
+msgstr ""
+
+# @ default
+#: admin/partials/robo-maps-admin-display-form.php:395
+msgid "Extremely Fast Support"
+msgstr ""
+
+# @ default
+#: admin/partials/robo-maps-admin-display-form.php:396
+msgid "even more fast support for professional package"
+msgstr ""
+
+# @ default
+#: admin/partials/robo-maps-admin-display-form.php:404
+msgid "Free Updates"
+msgstr ""
+
+# @ default
+#: admin/partials/robo-maps-admin-display-form.php:405
+msgid "pay one time, get free updates during next year"
+msgstr ""
+
+# @ default
+#: admin/partials/robo-maps-admin-display-form.php:425
+msgid "Insert tag map"
+msgstr ""
+
+# @ default
+#: admin/partials/robo-maps-admin-display.php:19
+msgid "RoboMaps it's simple and really powerful Google maps plugin. You have full set of settings to customize your maps. It’s Mobile optimized fully responsive plugin. You can easily customize styles and settings of every of your map"
+msgstr ""
+
+# @ default
+#: admin/partials/robo-maps-admin-display.php:60
+msgid "Mobile optimized"
+msgstr ""
+
+# @ default
+#: admin/partials/robo-maps-admin-display.php:61
+msgid "Native javascript instead of jQuery"
+msgstr ""
+
+# @ default
+#: admin/partials/robo-maps-admin-display.php:62
+msgid "Markers customization"
+msgstr ""
+
+# @ default
+#: admin/partials/robo-maps-admin-display.php:63
+msgid "Fullscreen maps"
+msgstr ""
+
+# @ default
+#: admin/partials/robo-maps-admin-display.php:64
+msgid "Custom google maps styling"
+msgstr ""
+
+# @ default
+#: admin/partials/robo-maps-admin-display.php:65
+msgid "Upload custom marker – icons"
+msgstr ""
+
+# @ default
+#: admin/partials/robo-maps-admin-display.php:66
+msgid "Minimaps"
+msgstr ""
+
+# @ default
+#: admin/partials/robo-maps-admin-display.php:67
+msgid "Multi markers, plotlines, polygons"
+msgstr ""
+
+# @ default
+#: admin/partials/robo-maps-admin-display.php:68
+msgid "Access to support ticket system"
+msgstr ""
+
+# @ default
+#: admin/partials/robo-maps-admin-display.php:69
+msgid "Priority support tickets"
+msgstr ""
+
+# @ default
+#: admin/partials/robo-maps-admin-display.php:70
+msgid "Access to updates and new features"
+msgstr ""
+
+# @ default
+#: admin/partials/robo-maps-admin-display.php:89
+msgid "When you open for edit Post or Page you'll see such wizard button on editor toolbar. Click on this button and you'll wizard form."
+msgstr ""
+
+# @ default
+#: admin/partials/robo-maps-admin-display.php:90
+msgid "When you open shortcode wizard you'll see there tabbed forms with all parameters for map configuration. Tabs of the main controls is General, View, Controls, Markers. By default it's open"
+msgstr ""
+
+# @ default
+#: admin/partials/robo-maps-admin-display.php:94
+msgid "General Settings"
+msgstr ""
+
+# @ default
+#: admin/partials/robo-maps-admin-display.php:98
+msgid "On this tab  you'll see next fields"
+msgstr ""
+
+# @ default
+#: admin/partials/robo-maps-admin-display.php:99
+msgid "address / coordinates - select the way you define location of the map, my coordinates or address"
+msgstr ""
+
+# @ default
+#: admin/partials/robo-maps-admin-display.php:100
+msgid "below this filed you can find fields for coordinates or address filed, depend of first option"
+msgstr ""
+
+# @ default
+#: admin/partials/robo-maps-admin-display.php:101
+msgid "option for marker behavior enable, disable or show after click"
+msgstr ""
+
+# @ default
+#: admin/partials/robo-maps-admin-display.php:102
+msgid "marker caption field"
+msgstr ""
+
+# @ default
+#: admin/partials/robo-maps-admin-display.php:105
+msgid "View Settings"
+msgstr ""
+
+# @ default
+#: admin/partials/robo-maps-admin-display.php:109
+msgid "View tab contain next fields"
+msgstr ""
+
+# @ default
+#: admin/partials/robo-maps-admin-display.php:110
+msgid "size options width/height. Values you can define in pixels or in percents"
+msgstr ""
+
+# @ default
+#: admin/partials/robo-maps-admin-display.php:111
+msgid "map view switch between standard Google maps values: ROADMAP, SATELLITE, HYBRID,  TERRAIN, OSM"
+msgstr ""
+
+# @ default
+#: admin/partials/robo-maps-admin-display.php:112
+msgid "Zoom value of the default zooming for the map in the range from 0 to 18"
+msgstr ""
+
+# @ default
+#: admin/partials/robo-maps-admin-display.php:116
+msgid "Controls Settings"
+msgstr ""
+
+# @ default
+#: admin/partials/robo-maps-admin-display.php:121
+msgid "Controls tab contain next fields: Scroll Wheel Control, Street View, Zoom Control, Pan Control, Overview Map, Map Type"
+msgstr ""
+
+# @ default
+#: admin/partials/robo-maps-admin-display.php:122
+msgid "All this options enable/disable such elements on map. So you can decide which elements do you wish to show on the front end map."
+msgstr ""
+
+# @ default
+#: admin/partials/robo-maps-admin-display.php:131
+msgid "Here you can use Add Marker button to create new markers, manage already created markers you  can in list below.  Every marker contain Label , Coordinate or address of the marker link and icon of the icon."
+msgstr ""
+
+# @ robo-maps
+#. translators: plugin header field 'Name'
+#: robo-maps.php:0
+msgid "WP Robo Maps"
+msgstr ""
