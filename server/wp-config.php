@@ -21,14 +21,14 @@
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
 //define('WP_CACHE', true); //Added by WP-Cache Manager
-define( 'WPCACHEHOME', '/home/jjblogistics/public_html/CHENNAIGHGEMISSIONS.IN/wp-content/plugins/wp-super-cache/' ); //Added by WP-Cache Manager
+define( 'WPCACHEHOME', '/home/abc/public_html/wp-content/plugins/wp-super-cache/' ); //Added by WP-Cache Manager
 define('DB_NAME', 'chennaighgemissions');
 
 /** MySQL database username */
 define('DB_USER', 'chennaighg');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'chennaighg@321');
+define('DB_PASSWORD', 'mypassword@321');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
